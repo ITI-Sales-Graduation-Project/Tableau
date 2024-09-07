@@ -25,7 +25,7 @@ Visualization: Create interactive dashboards and visualizations to present findi
 - **Sales by Market:** Displays sales performance across different markets.
 
 ### Dashboard
-- ![Sales Performance Dashboard](https://github.com/username/repository-name/blob/main/sales.png)
+- ![Sales Performance Dashboard](https://github.com/ITI-Sales-Graduation-Project/Tableau/blob/b9ccc14affadee75d774de0c938f26b5591b6c73/Sales-project/Screenshot-Of-Dashboard/Sales.png)
 
 ## 2. Customer Engagement Dashboard.
 ### Features
@@ -33,6 +33,7 @@ Visualization: Create interactive dashboards and visualizations to present findi
 - **Customer Engagement Dashboard**: Displays customer count, average sales per customer, return ratio, and more.
 
 ### Dashboard
+- ![Sales Performance Dashboard](https://github.com/ITI-Sales-Graduation-Project/Tableau/blob/b9ccc14affadee75d774de0c938f26b5591b6c73/Sales-project/Screenshot-Of-Dashboard/Customer.png)
 
 ## 3. Operational Efficiency Dashboard.
 
@@ -45,6 +46,18 @@ Visualization: Create interactive dashboards and visualizations to present findi
 - **Top 5 Regions by Late Delivery Risk:** Highlights regions at risk of late deliveries.
 
 ### Dashboard
+- ![Sales Performance Dashboard](https://github.com/ITI-Sales-Graduation-Project/Tableau/blob/b9ccc14affadee75d774de0c938f26b5591b6c73/Sales-project/Screenshot-Of-Dashboard/Operational.png)
 
-## 4. Operational Efficiency Dashboard.
+## 4. Geospatial Dashboard (Origin Distribution Map).
+
+### Features
+
+### Dashboard
+- ![Sales Performance Dashboard](https://github.com/ITI-Sales-Graduation-Project/Tableau/blob/b9ccc14affadee75d774de0c938f26b5591b6c73/Sales-project/Screenshot-Of-Dashboard/Geo1.png)
+## 5. Geospatial Dashboard (Customer Distribution and Supply Chain).
+
+### Features
+
+### Dashboard
+- ![Sales Performance Dashboard](https://github.com/ITI-Sales-Graduation-Project/Tableau/blob/b9ccc14affadee75d774de0c938f26b5591b6c73/Sales-project/Screenshot-Of-Dashboard/Geo2.png)
   
