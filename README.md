@@ -51,11 +51,11 @@ Visualization: Create interactive dashboards and visualizations to present findi
 ## 4. Geospatial Dashboard (Origin Distribution Map).
 
 ### Features
-- **Geo-Origin by Year: Displays the distribution of origins for selected years.
-- **Store City Connection: Visualizes connections between store cities and their origin points.
-- **Origin Flow by Route: Illustrates the flow and direction of shipment routes from origins to store cities.
-- **Geospatial Sales Impact: Tracks the geographical distribution of sales origin in relation to store locations.
-- **Origin Distribution Map: Provides a visual overview of origins and their connections on a global scale.
+- **Geo-Origin by Year**: Displays the distribution of origins for selected years.
+- **Store City Connection**: Visualizes connections between store cities and their origin points.
+- **Origin Flow by Route**: Illustrates the flow and direction of shipment routes from origins to store cities.
+- **Geospatial Sales Impact**: Tracks the geographical distribution of sales origin in relation to store locations.
+- **Origin Distribution Map**: Provides a visual overview of origins and their connections on a global scale.
 
   
 ### Dashboard
@@ -63,11 +63,11 @@ Visualization: Create interactive dashboards and visualizations to present findi
 ## 5. Geospatial Dashboard (Customer Distribution and Supply Chain).
 
 ### Features
-- **Total Sales by Country: Displays the total number of sales for each country.
-- **Supply Chain Flow: Maps the origin and destination points of shipments globally, showing movement between countries.
-- **Country Performance by Sales Volume: Highlights the performance of countries based on the total sales data.
-- **Customer Hotspot Map: Identifies countries with the highest customer distribution and demand.
-- **Sales by Supply Chain Route: Shows the relationship between sales volume and the origin-destination routes for each country.
+- **Total Sales by Country**: Displays the total number of sales for each country.
+- **Supply Chain Flow**: Maps the origin and destination points of shipments globally, showing movement between countries.
+- **Country Performance by Sales Volume**: Highlights the performance of countries based on the total sales data.
+- **Customer Hotspot Map**: Identifies countries with the highest customer distribution and demand.
+- **Sales by Supply Chain Route**: Shows the relationship between sales volume and the origin-destination routes for each country.
 
 
 
